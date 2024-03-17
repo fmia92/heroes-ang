@@ -1,27 +1,25 @@
-# HeroesAng
+# Proyecto de Superhéroes con Angular 17
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.10.
+Este proyecto de Angular 17 es una aplicación web que muestra un listado de superhéroes. Los datos de los superhéroes se obtienen de una API y se muestran en una interfaz de usuario interactiva.
 
-## Development server
+## Funcionalidades
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- Visualización de un listado de superhéroes.
+- Búsqueda de superhéroes por nombre.
+- Visualización de detalles de un superhéroe específico.
+- Creación, edición y eliminación de superhéroes (para usuarios autenticados).
 
-## Code scaffolding
+## Tecnologías utilizadas
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Angular 17
+- TypeScript
+- HTML
+- CSS
+- Angular Material (opcional para estilos y componentes adicionales)
 
-## Build
+## Instalación
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+1. Clona este repositorio en tu máquina local utilizando el siguiente comando:
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+```bash
+git clone <URL_DEL_REPOSITORIO>

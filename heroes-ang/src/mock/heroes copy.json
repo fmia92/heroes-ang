@@ -1,0 +1,2693 @@
+{
+  "heroes": [
+    {
+      "id": "11",
+      "name": "Agent Zero",
+      "slug": "11-agent-zero",
+      "powerstats": {
+        "intelligence": 75,
+        "strength": 28,
+        "speed": 38,
+        "durability": 80,
+        "power": 72,
+        "combat": 95
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": null,
+        "height": [
+          "6'3",
+          "191 cm"
+        ],
+        "weight": [
+          "230 lb",
+          "104 kg"
+        ],
+        "eyeColor": "-",
+        "hairColor": "-"
+      },
+      "biography": {
+        "fullName": "Christoph Nord",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Maverick"
+        ],
+        "placeOfBirth": "Unrevealed location in former East Germany",
+        "firstAppearance": "-",
+        "publisher": "Marvel Comics",
+        "alignment": "good"
+      },
+      "work": {
+        "occupation": "Mercenary, former government operative, freedom fighter",
+        "base": "-"
+      },
+      "connections": {
+        "groupAffiliation": "Formerly Weapon X, Weapon Plus, Team X, Cell Six, former bodyguard of Psi-Borg, former agent of Major Barrington",
+        "relatives": "Unidentified parents (deceased), Andreas Nord (brother, deceased), Ginetta Lucia Barsalini (wife, deceased), unnamed child (deceased)"
+      },
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/11-agent-zero.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/11-agent-zero.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/11-agent-zero.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/11-agent-zero.jpg"
+      }
+    },
+    {
+      "id": "30",
+      "name": "Ant-Man",
+      "slug": "30-ant-man",
+      "powerstats": {
+        "intelligence": 100,
+        "strength": 18,
+        "speed": 23,
+        "durability": 28,
+        "power": 32,
+        "combat": 32
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Human",
+        "height": [
+          "6'11",
+          "211 cm"
+        ],
+        "weight": [
+          "270 lb",
+          "122 kg"
+        ],
+        "eyeColor": "Blue",
+        "hairColor": "Blond"
+      },
+      "biography": {
+        "fullName": "Hank Pym",
+        "alterEgos": "Giant-Man, Goliath, Wasp II, Yellowjacket",
+        "aliases": [
+          "Hank Pym",
+          "Doctor Pym",
+          "Ant-Man",
+          "Goliath",
+          "Yellowjacket",
+          "Wasp",
+          "Earth's Scientist Supreme"
+        ],
+        "placeOfBirth": "Elmsford, New York",
+        "firstAppearance": "Tales to Astonish #27 (January, 1962) (as Hank Pym)  Tales to Astonish #35 (September, 1962) (as Ant-Man)",
+        "publisher": "Giant-Man",
+        "alignment": "good"
+      },
+      "work": {
+        "occupation": "Adventurer, Biochemist, former manager of Avengers Compound",
+        "base": "Avengers Compound, Los Angeles; formerly Infinite Avengers Mansion; Captive aboard a Skrull ship; Avengers Mansion, New York City, New York"
+      },
+      "connections": {
+        "groupAffiliation": "Avengers Academy, Secret Avengers; formerly Mighty Avengers, Avengers (founding member), Defenders, Future Iron Man's Team",
+        "relatives": "-"
+      },
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/30-ant-man.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/30-ant-man.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/30-ant-man.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/30-ant-man.jpg"
+      }
+    },
+    {
+      "id": "36",
+      "name": "Aquababy",
+      "slug": "36-aquababy",
+      "powerstats": {
+        "intelligence": 10,
+        "strength": 16,
+        "speed": 12,
+        "durability": 14,
+        "power": 37,
+        "combat": 14
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": null,
+        "height": [
+          "-",
+          "0 cm"
+        ],
+        "weight": [
+          "- lb",
+          "0 kg"
+        ],
+        "eyeColor": "Blue",
+        "hairColor": "Blond"
+      },
+      "biography": {
+        "fullName": "Arthur Curry, Jr.",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "-"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "Aquaman #23 (October, 1965)",
+        "publisher": "DC Comics",
+        "alignment": "good"
+      },
+      "work": {
+        "occupation": "-",
+        "base": "Atlantis"
+      },
+      "connections": {
+        "groupAffiliation": "Aquaman Family",
+        "relatives": "Aquaman (Orin/Arthur Curry) (father); Mera (mother); Koryak (half-brother); A.J. (half-brother); Atlan (grandfather); Tom Curry (adoptive grandfather, deceased); Orm Marius (uncle); Kordax (ancestor, deceased); Arthur Joseph Curry (adoptive cousin)"
+      },
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/36-aquababy.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/36-aquababy.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/36-aquababy.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/36-aquababy.jpg"
+      }
+    },
+    {
+      "id": "38",
+      "name": "Aquaman",
+      "slug": "38-aquaman",
+      "powerstats": {
+        "intelligence": 81,
+        "strength": 85,
+        "speed": 79,
+        "durability": 80,
+        "power": 100,
+        "combat": 80
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Atlantean",
+        "height": [
+          "6'1",
+          "185 cm"
+        ],
+        "weight": [
+          "325 lb",
+          "146 kg"
+        ],
+        "eyeColor": "Blue",
+        "hairColor": "Blond"
+      },
+      "biography": {
+        "fullName": "Orin",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Dweller in the Depths",
+          "Swimmer",
+          "Waterbearer",
+          "Mental Man",
+          "Aquaboy",
+          "Water Wraith"
+        ],
+        "placeOfBirth": "Atlantis",
+        "firstAppearance": "More Fun Comics #73 (November, 1941)",
+        "publisher": "DC Comics",
+        "alignment": "good"
+      },
+      "work": {
+        "occupation": "Protector of the Seas and Oceans, King of Poseidonis",
+        "base": "Atlantean Royal Palace; Poseidonis, Atlantis"
+      },
+      "connections": {
+        "groupAffiliation": "Justice League, Aquaman Family, Atlantean Royal Family; formerly Black Lantern Corps, Justice League International, Justice League Detroit, U.N.",
+        "relatives": "Koryak (son), Arthur Curry, Jr. (son), A.J. (son), Orm Marius (half-brother), Debbie Perkins (half-sister), Drin (adopted brother), Atlanna (mother), Atlan (father), Atlena (aunt), Porm (adopted mother), Tom Curry (adopted father), Mera (wife), Hila (sister-in-law), Haumond (uncle), Kraken (uncle), Honsu (grandfather), Lorelei (grandmother), Manu (ancestor), Nala (ancestor), Fatima (ancestor), Kalunga (ancestor), Gana (ancestor), Fiona (ancestor), Regin (ancestor), Kordax (ancestor), Bazil (ancestor), Cora (ancestor), Illya (ancestor), Dardanus (ancestor), Alloroc (ancestor), Cole (ancestor), Narmea (ancestor), Orin (ancestor), Loma (ancestor), Shalako (ancestor), Thorvall (ancestor)"
+      },
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/38-aquaman.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/38-aquaman.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/38-aquaman.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/38-aquaman.jpg"
+      }
+    },
+    {
+      "id": "39",
+      "name": "Arachne",
+      "slug": "39-arachne",
+      "powerstats": {
+        "intelligence": 50,
+        "strength": 48,
+        "speed": 50,
+        "durability": 70,
+        "power": 71,
+        "combat": 70
+      },
+      "appearance": {
+        "gender": "Female",
+        "race": "Human",
+        "height": [
+          "5'9",
+          "175 cm"
+        ],
+        "weight": [
+          "140 lb",
+          "63 kg"
+        ],
+        "eyeColor": "Blue",
+        "hairColor": "Blond"
+      },
+      "biography": {
+        "fullName": "Julia Carpenter",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Spider-Woman",
+          "Madame Web"
+        ],
+        "placeOfBirth": "Los Angeles, California",
+        "firstAppearance": "Marvel Super Heroes Secret Wars #6",
+        "publisher": "Marvel Comics",
+        "alignment": "good"
+      },
+      "work": {
+        "occupation": "Adventurer, fugitive, former government agent",
+        "base": "Mobile; formerly Denver, Colorado; formerly Avengers Compound, Los Angeles, California"
+      },
+      "connections": {
+        "groupAffiliation": "Omega Flight, formerly Commission on Superhuman Activities , Freedom Force , Avengers , Secret Defenders , Force Works , Queen?s Vengeance , West Coast Avengers, Secret Avengers (Civil War)",
+        "relatives": "Rachel Carpenter (daughter), Walter Cornwall (father), Elizabeth Cornwall (mother), Larry Carpenter (ex-husband, deceased)"
+      },
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/39-arachne.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/39-arachne.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/39-arachne.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/39-arachne.jpg"
+      }
+    },
+    {
+      "id": "43",
+      "name": "Ares",
+      "slug": "43-ares",
+      "powerstats": {
+        "intelligence": 75,
+        "strength": 82,
+        "speed": 35,
+        "durability": 80,
+        "power": 84,
+        "combat": 101
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": null,
+        "height": [
+          "6'1",
+          "185 cm"
+        ],
+        "weight": [
+          "600 lb",
+          "270 kg"
+        ],
+        "eyeColor": "Brown",
+        "hairColor": "Brown"
+      },
+      "biography": {
+        "fullName": "",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "God of War",
+          "Mister Talon",
+          "Mars",
+          "Warhawk"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "Thor #129",
+        "publisher": "Marvel Comics",
+        "alignment": "good"
+      },
+      "work": {
+        "occupation": "-",
+        "base": "Avengers Tower, formerly Olympus"
+      },
+      "connections": {
+        "groupAffiliation": "Avengers, Mighty Avengers, Olympic Pantheon; Warhawks",
+        "relatives": "Zeus (father), Hera (mother), Enyo (wife), Deimos, Phobos, Alexander (sons), Neptune, Pluto (uncles), Demeter, Hestia (aunts), Hephaestus (brother), Apollo, Dionysus, Hercules, Hermes(half-brothers), Artemis, Pallas Athena, Venus, (half-sisters)"
+      },
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/43-ares.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/43-ares.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/43-ares.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/43-ares.jpg"
+      }
+    },
+    {
+      "id": "52",
+      "name": "Atom Girl",
+      "slug": "52-atom-girl",
+      "powerstats": {
+        "intelligence": 38,
+        "strength": 10,
+        "speed": 23,
+        "durability": 28,
+        "power": 38,
+        "combat": 42
+      },
+      "appearance": {
+        "gender": "Female",
+        "race": null,
+        "height": [
+          "5'6",
+          "168 cm"
+        ],
+        "weight": [
+          "120 lb",
+          "54 kg"
+        ],
+        "eyeColor": "Black",
+        "hairColor": "Black"
+      },
+      "biography": {
+        "fullName": "Salu Digby",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Shrinking Violet"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "Teen Titans/Legion Special #1 (2004)",
+        "publisher": "DC Comics",
+        "alignment": "good"
+      },
+      "work": {
+        "occupation": "-",
+        "base": "United Planets, 31st century"
+      },
+      "connections": {
+        "groupAffiliation": "Legion of Super-Heroes",
+        "relatives": "-"
+      },
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/52-atom-girl.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/52-atom-girl.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/52-atom-girl.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/52-atom-girl.jpg"
+      }
+    },
+    {
+      "id": "53",
+      "name": "Atom II",
+      "slug": "53-atom-ii",
+      "powerstats": {
+        "intelligence": 88,
+        "strength": 10,
+        "speed": 33,
+        "durability": 45,
+        "power": 40,
+        "combat": 60
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Human",
+        "height": [
+          "6'0",
+          "183 cm"
+        ],
+        "weight": [
+          "180 lb",
+          "81 kg"
+        ],
+        "eyeColor": "Brown",
+        "hairColor": "Auburn"
+      },
+      "biography": {
+        "fullName": "Ray Palmer",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "The Mighty Mite",
+          "the Tiny Titan",
+          "the World's Smallest Hero"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "Showcase #34",
+        "publisher": "DC Comics",
+        "alignment": "good"
+      },
+      "work": {
+        "occupation": "Physics Professor",
+        "base": "Ivy Town"
+      },
+      "connections": {
+        "groupAffiliation": "Justice League of America, formerly; Suicide Squad, Teen Titans",
+        "relatives": "Jean Loring (ex-wife, deceased), Princess Laethwen (wife, deceased), Danny Palmer (brother, deceased), David Palmer (father), Susan Palmer (mother, deceased), David Palmer (uncle)"
+      },
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/53-atom-ii.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/53-atom-ii.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/53-atom-ii.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/53-atom-ii.jpg"
+      }
+    },
+    {
+      "id": "58",
+      "name": "Azrael",
+      "slug": "58-azrael",
+      "powerstats": {
+        "intelligence": 63,
+        "strength": 18,
+        "speed": 17,
+        "durability": 20,
+        "power": 35,
+        "combat": 80
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Human",
+        "height": [
+          "-",
+          "0 cm"
+        ],
+        "weight": [
+          "- lb",
+          "0 kg"
+        ],
+        "eyeColor": "Brown",
+        "hairColor": "Black"
+      },
+      "biography": {
+        "fullName": "Michael Washington Lane",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Bat-Devil; Bat-Ghost"
+        ],
+        "placeOfBirth": "Gotham City",
+        "firstAppearance": "Batman #672 (February, 2008)",
+        "publisher": "DC Comics",
+        "alignment": "good"
+      },
+      "work": {
+        "occupation": "Former Police Officer, vigilante",
+        "base": "-"
+      },
+      "connections": {
+        "groupAffiliation": "Order of St. Dumas; formerly Gotham City Police Department; Three Ghosts of Batman",
+        "relatives": "Mitchell Lane (father; deceased), Barbara Lane (mother; deceased), Marion Lane (brother; deceased), Gwendolyn Lane (sister; deceased), Chante Coles (wife; deceased), Henry Mitchell Lane (son; deceased), Jenny Lane (Sister-in-law)"
+      },
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/58-azrael.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/58-azrael.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/58-azrael.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/58-azrael.jpg"
+      }
+    },
+    {
+      "id": "61",
+      "name": "Banshee",
+      "slug": "61-banshee",
+      "powerstats": {
+        "intelligence": 50,
+        "strength": 10,
+        "speed": 58,
+        "durability": 40,
+        "power": 63,
+        "combat": 70
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Human",
+        "height": [
+          "6'0",
+          "183 cm"
+        ],
+        "weight": [
+          "170 lb",
+          "77 kg"
+        ],
+        "eyeColor": "Green",
+        "hairColor": "Strawberry Blond"
+      },
+      "biography": {
+        "fullName": "Sean Cassidy",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Death"
+        ],
+        "placeOfBirth": "Cassidy Keep, Ireland",
+        "firstAppearance": "X-Men #28 (January, 1967)",
+        "publisher": "Marvel Comics",
+        "alignment": "good"
+      },
+      "work": {
+        "occupation": "Currently founder and director of operation for X-Corps, formerly Adventurer and Headmaster at the Massachusetts Academy, in charge of Generation X, Interpol Inspector and Agent, freelance detective, professional criminal, involuntary operative for Factor",
+        "base": "Muir Island, off the coast of Scotland. formerly Massachusetts Academy; Xavier Institute"
+      },
+      "connections": {
+        "groupAffiliation": "Currently X-Corps, formerly Generation X, Factor Three, X-Men",
+        "relatives": "Maeve Rourke Cassidy (wife, deceased), Thomas (Black Tom, cousin), Theresa Rourke (Siryn, daughter)"
+      },
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/61-banshee.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/61-banshee.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/61-banshee.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/61-banshee.jpg"
+      }
+    },
+    {
+      "id": "63",
+      "name": "Batgirl",
+      "slug": "63-batgirl",
+      "powerstats": {
+        "intelligence": 88,
+        "strength": 11,
+        "speed": 33,
+        "durability": 40,
+        "power": 34,
+        "combat": 90
+      },
+      "appearance": {
+        "gender": "Female",
+        "race": "Human",
+        "height": [
+          "5'7",
+          "170 cm"
+        ],
+        "weight": [
+          "126 lb",
+          "57 kg"
+        ],
+        "eyeColor": "Green",
+        "hairColor": "Red"
+      },
+      "biography": {
+        "fullName": "Barbara Gordon",
+        "alterEgos": "Oracle",
+        "aliases": [
+          "Oracle",
+          "Bluebelle"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "Detective Comics #359",
+        "publisher": "Oracle",
+        "alignment": "good"
+      },
+      "work": {
+        "occupation": "-",
+        "base": "Gotham City, formerly Metropolis, Platinum Flats"
+      },
+      "connections": {
+        "groupAffiliation": "-",
+        "relatives": "James Gordon (father) ? Barbara Eileen (mother) ? James Gordon, Jr. (brother)"
+      },
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/63-batgirl.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/63-batgirl.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/63-batgirl.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/63-batgirl.jpg"
+      }
+    },
+    {
+      "id": "66",
+      "name": "Batgirl IV",
+      "slug": "66-batgirl-iv",
+      "powerstats": {
+        "intelligence": 69,
+        "strength": 12,
+        "speed": 27,
+        "durability": 56,
+        "power": 46,
+        "combat": 100
+      },
+      "appearance": {
+        "gender": "Female",
+        "race": "Human",
+        "height": [
+          "5'5",
+          "165 cm"
+        ],
+        "weight": [
+          "115 lb",
+          "52 kg"
+        ],
+        "eyeColor": "Green",
+        "hairColor": "Black"
+      },
+      "biography": {
+        "fullName": "Cassandra Cain",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Kasumi",
+          "various mundane persona,"
+        ],
+        "placeOfBirth": "League of Assassins (exact base is unknown)",
+        "firstAppearance": "Batman: Legends of the Dark Knight #120",
+        "publisher": "DC Comics",
+        "alignment": "good"
+      },
+      "work": {
+        "occupation": "-",
+        "base": "Gotham City; Bl?dhaven; Tibet; New York City"
+      },
+      "connections": {
+        "groupAffiliation": "Titans East, League of Assassins, Batman Family, Justice League Elite, Young Justice",
+        "relatives": "David Cain (father), Lady Shiva (mother), Carolyn (aunt, deceased), Annalea (sibling, deceased), 'The Mad Dog' (sibling)"
+      },
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/66-batgirl-iv.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/66-batgirl-iv.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/66-batgirl-iv.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/66-batgirl-iv.jpg"
+      }
+    },
+    {
+      "id": "70",
+      "name": "Batman",
+      "slug": "70-batman",
+      "powerstats": {
+        "intelligence": 100,
+        "strength": 26,
+        "speed": 27,
+        "durability": 50,
+        "power": 47,
+        "combat": 100
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Human",
+        "height": [
+          "6'2",
+          "188 cm"
+        ],
+        "weight": [
+          "210 lb",
+          "95 kg"
+        ],
+        "eyeColor": "blue",
+        "hairColor": "black"
+      },
+      "biography": {
+        "fullName": "Bruce Wayne",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Insider",
+          "Matches Malone"
+        ],
+        "placeOfBirth": "Crest Hill, Bristol Township; Gotham County",
+        "firstAppearance": "Detective Comics #27",
+        "publisher": "DC Comics",
+        "alignment": "good"
+      },
+      "work": {
+        "occupation": "Businessman",
+        "base": "Batcave, Stately Wayne Manor, Gotham City; Hall of Justice, Justice League Watchtower"
+      },
+      "connections": {
+        "groupAffiliation": "Batman Family, Batman Incorporated, Justice League, Outsiders, Wayne Enterprises, Club of Heroes, formerly White Lantern Corps, Sinestro Corps",
+        "relatives": "Damian Wayne (son), Dick Grayson (adopted son), Tim Drake (adopted son), Jason Todd (adopted son), Cassandra Cain (adopted ward)\nMartha Wayne (mother, deceased), Thomas Wayne (father, deceased), Alfred Pennyworth (former guardian), Roderick Kane (grandfather, deceased), Elizabeth Kane (grandmother, deceased), Nathan Kane (uncle, deceased), Simon Hurt (ancestor), Wayne Family"
+      },
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/70-batman.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/70-batman.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/70-batman.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/70-batman.jpg"
+      }
+    },
+    {
+      "id": "71",
+      "name": "Batman II",
+      "slug": "71-batman-ii",
+      "powerstats": {
+        "intelligence": 88,
+        "strength": 11,
+        "speed": 33,
+        "durability": 28,
+        "power": 36,
+        "combat": 100
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Human",
+        "height": [
+          "5'10",
+          "178 cm"
+        ],
+        "weight": [
+          "175 lb",
+          "79 kg"
+        ],
+        "eyeColor": "Blue",
+        "hairColor": "Black"
+      },
+      "biography": {
+        "fullName": "Dick Grayson",
+        "alterEgos": "Nightwing, Robin",
+        "aliases": [
+          "Dick Grayson"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "-",
+        "publisher": "Nightwing",
+        "alignment": "good"
+      },
+      "work": {
+        "occupation": "-",
+        "base": "Gotham City; formerly Bludhaven, New York City"
+      },
+      "connections": {
+        "groupAffiliation": "Justice League Of America, Batman Family",
+        "relatives": "John Grayson (father, deceased), Mary Grayson (mother, deceased), Bruce Wayne / Batman (adoptive father), Damian Wayne / Robin (foster brother), Jason Todd / Red Hood (adoptive brother), Tim Drake / Red Robin (adoptive brother), Cassandra Cain / Batgirl IV (adoptive sister)"
+      },
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/71-batman-ii.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/71-batman-ii.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/71-batman-ii.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/71-batman-ii.jpg"
+      }
+    },
+    {
+      "id": "75",
+      "name": "Beast",
+      "slug": "75-beast",
+      "powerstats": {
+        "intelligence": 94,
+        "strength": 48,
+        "speed": 38,
+        "durability": 60,
+        "power": 43,
+        "combat": 85
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Mutant",
+        "height": [
+          "5'11",
+          "180 cm"
+        ],
+        "weight": [
+          "402 lb",
+          "181 kg"
+        ],
+        "eyeColor": "Blue",
+        "hairColor": "Blue"
+      },
+      "biography": {
+        "fullName": "Henry Philip McCoy",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Dr. McCoy",
+          "Hanko",
+          "Kreature",
+          "Mutate #666",
+          "Magilla Gorilla",
+          "Golden Armed Boy"
+        ],
+        "placeOfBirth": "Dunfee, Illinois",
+        "firstAppearance": "X-MEN Vol. 1 #1, (in furry ape form) AMAZING ADVENTURES #11, (in current feline form) NEW X-MEN Vol. 1 #114",
+        "publisher": "Marvel Comics",
+        "alignment": "good"
+      },
+      "work": {
+        "occupation": "Biochemist, formerly Xavier Institute for Higher Learning science and math Instructor, mutant activist, college lecturer, researcher, professional wrestler",
+        "base": "Xavier Institute, Salem Center, Westchester County, New York"
+      },
+      "connections": {
+        "groupAffiliation": "Secret Avengers, S.W.O.R.D.; formerly X-Men (founding member); X-Club (founding member); Initiative; 198; X-Treme X-Men; Acolytes (while mind-controlled); Queen's Vengeance; X-Factor/X-Terminators (founding member); Rejects; Defenders, Avengers",
+        "relatives": "Sadie McCoy (paternal grandmother), Norton McCoy (father), Edna McCoy (mother), Robert McCoy (paternal great-uncle), John McCoy (uncle)"
+      },
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/75-beast.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/75-beast.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/75-beast.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/75-beast.jpg"
+      }
+    },
+    {
+      "id": "80",
+      "name": "Beyonder",
+      "slug": "80-beyonder",
+      "powerstats": {
+        "intelligence": 100,
+        "strength": 100,
+        "speed": 100,
+        "durability": 100,
+        "power": 100,
+        "combat": 84
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "God / Eternal",
+        "height": [
+          "-",
+          "0 cm"
+        ],
+        "weight": [
+          "- lb",
+          "0 kg"
+        ],
+        "eyeColor": "-",
+        "hairColor": "-"
+      },
+      "biography": {
+        "fullName": "",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Ataxi",
+          "The Beyond Realm",
+          "Frank",
+          "Goblin Force",
+          "Goblin King",
+          "Goblyn King",
+          "Goblin Queen",
+          "The One From Beyond",
+          "God",
+          "Kosmos",
+          "Maker"
+        ],
+        "placeOfBirth": "Created in the Beyond",
+        "firstAppearance": "Marvel Super-Heroes Secret Wars #1",
+        "publisher": "Marvel Comics",
+        "alignment": "good"
+      },
+      "work": {
+        "occupation": "Former student",
+        "base": "-"
+      },
+      "connections": {
+        "groupAffiliation": "Was once in a merged form with the Molecule Man but is no longer merged with him.",
+        "relatives": "-"
+      },
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/80-beyonder.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/80-beyonder.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/80-beyonder.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/80-beyonder.jpg"
+      }
+    },
+    {
+      "id": "92",
+      "name": "Bishop",
+      "slug": "92-bishop",
+      "powerstats": {
+        "intelligence": 63,
+        "strength": 14,
+        "speed": 23,
+        "durability": 75,
+        "power": 100,
+        "combat": 65
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Mutant",
+        "height": [
+          "6'6",
+          "198 cm"
+        ],
+        "weight": [
+          "275 lb",
+          "124 kg"
+        ],
+        "eyeColor": "Brown",
+        "hairColor": "No Hair"
+      },
+      "biography": {
+        "fullName": "Lucas Bishop",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Archbishop"
+        ],
+        "placeOfBirth": "A mutant relocation camp in an undisclosed location on an alternate 21st Century Earth",
+        "firstAppearance": "Uncanny X-Men #282 (November, 1991)",
+        "publisher": "Marvel Comics",
+        "alignment": "good"
+      },
+      "work": {
+        "occupation": "(current) Adventurer, (former) Commander in the XSE (Xavier's Security Enforcers)",
+        "base": "Formerly Xavier Institute for Higher Learning, Salem Center, Westchester County, New York"
+      },
+      "connections": {
+        "groupAffiliation": "\"Clean City\"; formerly Stryfe; X-Men; X.S.E. (Storm's team); X-Treme X-Men; X.S.E. (Hecate'e's team); The Twelve",
+        "relatives": "Burnum Bishop (father, deceased), Kadee Bishop (mother, deceased), Shard (sister, deceased), unnamed grandmother, Gateway (great-grandfather), Aliyah Bishop (alternate reality daughter);"
+      },
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/92-bishop.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/92-bishop.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/92-bishop.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/92-bishop.jpg"
+      }
+    },
+    {
+      "id": "96",
+      "name": "Black Bolt",
+      "slug": "96-black-bolt",
+      "powerstats": {
+        "intelligence": 75,
+        "strength": 67,
+        "speed": 100,
+        "durability": 84,
+        "power": 100,
+        "combat": 56
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Inhuman",
+        "height": [
+          "6'2",
+          "188 cm"
+        ],
+        "weight": [
+          "210 lb",
+          "95 kg"
+        ],
+        "eyeColor": "Blue",
+        "hairColor": "Black"
+      },
+      "biography": {
+        "fullName": "Blackagar Boltagon",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "-"
+        ],
+        "placeOfBirth": "Attilan, Atlantic Ocean",
+        "firstAppearance": "Fantastic Four #45 (December, 1965)",
+        "publisher": "Marvel Comics",
+        "alignment": "good"
+      },
+      "work": {
+        "occupation": "King of the Inhumans",
+        "base": "Attilan, Blue Area of the Moon"
+      },
+      "connections": {
+        "groupAffiliation": "Universal Inhumans; Inhuman Royal Family; formerly Illuminati",
+        "relatives": "Medusa (wife and first cousin), Ahura (son), Agon (father, deceased), Rynda(mother, deceased), Maximus (brother), Crystal (sister-in-law), Gorgon, Karnak, Triton (cousins)"
+      },
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/96-black-bolt.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/96-black-bolt.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/96-black-bolt.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/96-black-bolt.jpg"
+      }
+    },
+    {
+      "id": "97",
+      "name": "Black Canary",
+      "slug": "97-black-canary",
+      "powerstats": {
+        "intelligence": 63,
+        "strength": 8,
+        "speed": 33,
+        "durability": 20,
+        "power": 52,
+        "combat": 80
+      },
+      "appearance": {
+        "gender": "Female",
+        "race": "Metahuman",
+        "height": [
+          "5'7",
+          "170 cm"
+        ],
+        "weight": [
+          "130 lb",
+          "59 kg"
+        ],
+        "eyeColor": "Blue",
+        "hairColor": "Blond"
+      },
+      "biography": {
+        "fullName": "Laurel Lance",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Dinah Laurel Lance Queen; Dinah Laurel Lance-Windrow"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "Justice League of America (Volume 1) #75",
+        "publisher": "DC Comics",
+        "alignment": "good"
+      },
+      "work": {
+        "occupation": "Detective/Crime-fighter, Chairperson of the Justice League of America; former florist, judo instructor",
+        "base": "Formerly Oracle's clock tower in Gotham City; formerly Seattle, Washington; formerly Star City, California; formerly New York City, New York (as a member of the JSA); currently mobile"
+      },
+      "connections": {
+        "groupAffiliation": "Birds of Prey; formerly Justice League of America, Justice Society of America, Justice League Task Force, Justice League International, Team Arrow",
+        "relatives": "Larry Lance (father, deceased), Dinah Drake Lance (Black Canary, mother, deceased); Oliver Queen (Green Arrow, husband); Craig Windrow (ex-husband); Sin (adoptive daughter)"
+      },
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/97-black-canary.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/97-black-canary.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/97-black-canary.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/97-black-canary.jpg"
+      }
+    },
+    {
+      "id": "102",
+      "name": "Black Knight III",
+      "slug": "102-black-knight-iii",
+      "powerstats": {
+        "intelligence": 63,
+        "strength": 10,
+        "speed": 8,
+        "durability": 70,
+        "power": 43,
+        "combat": 70
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Human",
+        "height": [
+          "6'0",
+          "183 cm"
+        ],
+        "weight": [
+          "190 lb",
+          "86 kg"
+        ],
+        "eyeColor": "Brown",
+        "hairColor": "Brown"
+      },
+      "biography": {
+        "fullName": "Dane Whitman",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "The Pendragon",
+          "Gann Josin",
+          "Eobar Garrington"
+        ],
+        "placeOfBirth": "Gloucester, Massachusetts",
+        "firstAppearance": "Avengers #47 (1967)",
+        "publisher": "Marvel Comics",
+        "alignment": "good"
+      },
+      "work": {
+        "occupation": "Adventurer, scientist; former crusader",
+        "base": "-"
+      },
+      "connections": {
+        "groupAffiliation": "MI-13; formerly Avengers, Masters of Evil (as a mole), Excalibur, Heroes for Hire, Ultraforce (in the Ultraverse), Defenders, Knights of Wundagore, Queen's Vengeance, King Richard's Army",
+        "relatives": "Nathan Garrett (Black Knight II, uncle, deceased); Sir Percy of Scandia (Black Knight), Sir Raston, Eobar Garrington (Black Knights of past eras, ancestors, deceased); Lady Rosamund, Edward, Geoffrey (ancestral relations, presumed deceased); Dafydd ap Iowerth, Arthur Pendragon, Mordred the Evil, Morgan Le Fay (distant ancestral relations)"
+      },
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/102-black-knight-iii.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/102-black-knight-iii.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/102-black-knight-iii.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/102-black-knight-iii.jpg"
+      }
+    },
+    {
+      "id": "103",
+      "name": "Black Lightning",
+      "slug": "103-black-lightning",
+      "powerstats": {
+        "intelligence": 50,
+        "strength": 11,
+        "speed": 53,
+        "durability": 28,
+        "power": 70,
+        "combat": 75
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": null,
+        "height": [
+          "6'1",
+          "185 cm"
+        ],
+        "weight": [
+          "200 lb",
+          "90 kg"
+        ],
+        "eyeColor": "Brown",
+        "hairColor": "No Hair"
+      },
+      "biography": {
+        "fullName": "Jefferson Pierce",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "-"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "Black Lightning #1 (April 1977)",
+        "publisher": "DC Comics",
+        "alignment": "good"
+      },
+      "work": {
+        "occupation": "Crime Fighter, High School teacher, Former gold-medal-winning Olympic Decathlete, formerly Secretary of Education under Presidents Pete Ross and Lex Luthor.",
+        "base": "Chicago, Illinois; Metropolis, The Hall & The JLA Watchtower"
+      },
+      "connections": {
+        "groupAffiliation": "Justice League of America (current), formerly Presidential Cabinet, The Outsiders (sporadically), Batman's Brother Eye attack group",
+        "relatives": "Unnamed father (deceased), Lynn Stewart (ex-wife), Joanna Pierce (niece, deceased), Anissa Pierce (Thunder, daughter), Jennifer Pierce (Lightning, daughter)"
+      },
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/103-black-lightning.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/103-black-lightning.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/103-black-lightning.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/103-black-lightning.jpg"
+      }
+    },
+    {
+      "id": "106",
+      "name": "Black Panther",
+      "slug": "106-black-panther",
+      "powerstats": {
+        "intelligence": 88,
+        "strength": 16,
+        "speed": 30,
+        "durability": 60,
+        "power": 41,
+        "combat": 100
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Human",
+        "height": [
+          "6'0",
+          "183 cm"
+        ],
+        "weight": [
+          "200 lb",
+          "90 kg"
+        ],
+        "eyeColor": "Brown",
+        "hairColor": "Black"
+      },
+      "biography": {
+        "fullName": "T'Challa",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Mr. Okonkwo",
+          "The Man Without Fear",
+          "Luke Charles",
+          "Black Leopard",
+          "the Client",
+          "Coal Tiger",
+          "has impersonated Daredevil and others on occasion"
+        ],
+        "placeOfBirth": "Wakanda, Africa",
+        "firstAppearance": "Fantastic Four Vol. 1 #52 (1966)",
+        "publisher": "Marvel Comics",
+        "alignment": "good"
+      },
+      "work": {
+        "occupation": "King and Chieftain of Wakanda, scientist; former school teacher",
+        "base": "Wakanda, Mobile"
+      },
+      "connections": {
+        "groupAffiliation": "Formerly Fantastic Four, Secret Avengers, Avengers, Pendragons, Queen's Vengeance, former Fantastic Force financier",
+        "relatives": "Bashenga (paternal ancestor, deceased), Azzuri the Wise (paternal grandfather, deceased), Nanali (paternal grandmother, deceased), Chanda (paternal grandfather, presumably deceased), T?Chaka (father, deceased), S'Yan (uncle, deceased), N?Yami (mother, deceased), Ramonda (stepmother), Hunter (adopted brother), Jakarra (half-brother), Shuri (sister), Ororo Munroe (wife), Joshua Itobo, Ishanta, Zuni, M'Koni, T'Shan (cousins), Wheeler (cousin by marriage, deceased), Billy Wheeler (1st cousin once removed)"
+      },
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/106-black-panther.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/106-black-panther.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/106-black-panther.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/106-black-panther.jpg"
+      }
+    },
+    {
+      "id": "107",
+      "name": "Black Widow",
+      "slug": "107-black-widow",
+      "powerstats": {
+        "intelligence": 75,
+        "strength": 13,
+        "speed": 33,
+        "durability": 30,
+        "power": 36,
+        "combat": 100
+      },
+      "appearance": {
+        "gender": "Female",
+        "race": "Human",
+        "height": [
+          "5'7",
+          "170 cm"
+        ],
+        "weight": [
+          "131 lb",
+          "59 kg"
+        ],
+        "eyeColor": "Green",
+        "hairColor": "Auburn"
+      },
+      "biography": {
+        "fullName": "Natasha Romanoff",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Yelena Belova",
+          "Natasha Romanoff",
+          "Natasha",
+          "Tasha",
+          "Madame Natasha",
+          "Nancy Rushman",
+          "Laura Matthers",
+          "Nadine Roman",
+          "\"Oktober\"",
+          "Black Pearl",
+          "Ebon Flame"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "Tales of Suspense #52",
+        "publisher": "Marvel Comics",
+        "alignment": "good"
+      },
+      "work": {
+        "occupation": "Adventurer, Intelligence agent, former ballerina",
+        "base": "Mobile"
+      },
+      "connections": {
+        "groupAffiliation": "Secret Avengers; formerly Thunderbolts (as Yelena Belova), Nick Fury, Mighty Avengers, S.H.I.E.L.D., Avengers, Champions of Los Angeles, Lady Liberators, KGB, \"Marvel Knights\", partner of Daredevil, Hawkeye, Boris Turgenov, Logan",
+        "relatives": "Unnamed parents (presumed deceased); Alexi Shostakov (Red Guardian, estranged husband); Vindiktor (alleged brother, deceased)"
+      },
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/107-black-widow.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/107-black-widow.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/107-black-widow.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/107-black-widow.jpg"
+      }
+    },
+    {
+      "id": "112",
+      "name": "Blade",
+      "slug": "112-blade",
+      "powerstats": {
+        "intelligence": 63,
+        "strength": 28,
+        "speed": 38,
+        "durability": 50,
+        "power": 40,
+        "combat": 90
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Vampire",
+        "height": [
+          "6'2",
+          "188 cm"
+        ],
+        "weight": [
+          "215 lb",
+          "97 kg"
+        ],
+        "eyeColor": "Brown",
+        "hairColor": "Black"
+      },
+      "biography": {
+        "fullName": "Eric Brooks",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Switchblade",
+          "Frank Blade",
+          "Daywalker"
+        ],
+        "placeOfBirth": "Soho, London,England",
+        "firstAppearance": "Tomb of Dracula Vol. 1 #10 (1973)",
+        "publisher": "Marvel Comics",
+        "alignment": "good"
+      },
+      "work": {
+        "occupation": "Vampire hunter, former private investigator.",
+        "base": "Mobile"
+      },
+      "connections": {
+        "groupAffiliation": "Formerly Noah van Helsing's vampire hunters, Nightstalkers, Midnight Sons, the Nine, Quincy Harker's vampire hunters, Ogun Strong's vampire hunters, Bloodshadows gang",
+        "relatives": "Tara Brooks (mother)"
+      },
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/112-blade.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/112-blade.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/112-blade.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/112-blade.jpg"
+      }
+    },
+    {
+      "id": "149",
+      "name": "Captain America",
+      "slug": "149-captain-america",
+      "powerstats": {
+        "intelligence": 69,
+        "strength": 19,
+        "speed": 38,
+        "durability": 55,
+        "power": 60,
+        "combat": 100
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Human",
+        "height": [
+          "6'2",
+          "188 cm"
+        ],
+        "weight": [
+          "240 lb",
+          "108 kg"
+        ],
+        "eyeColor": "blue",
+        "hairColor": "blond"
+      },
+      "biography": {
+        "fullName": "Steve Rogers",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Nomad",
+          "The Captain"
+        ],
+        "placeOfBirth": "Manhattan, New York City, New York",
+        "firstAppearance": "Captain America Comics #1 (March 1941)",
+        "publisher": "Marvel Comics",
+        "alignment": "good"
+      },
+      "work": {
+        "occupation": "Adventurer, federal official, intelligence operative; former soldier, Hydra agent, liaison between S.H.I.E.L.D. and the Avengers, police officer, teacher, sparring partner.",
+        "base": "New York City"
+      },
+      "connections": {
+        "groupAffiliation": "Secret Avengers (Black OPS Unit Formerly,The Avengers, Secret Avengers (Civil War), New Avengers, formerly The Invaders, Secret Defenders The Redeemers; formerly partner of Bucky, Golden Girl, Rick Jones, Falcon, Demolition-Man and Nomad (Jack Monroe)",
+        "relatives": "Joseph (father, deceased), Sara (mother, deceased), Ian Zola (Nomad) (adopted son)"
+      },
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/149-captain-america.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/149-captain-america.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/149-captain-america.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/149-captain-america.jpg"
+      }
+    },
+    {
+      "id": "151",
+      "name": "Captain Britain",
+      "slug": "151-captain-britain",
+      "powerstats": {
+        "intelligence": 75,
+        "strength": 77,
+        "speed": 50,
+        "durability": 60,
+        "power": 31,
+        "combat": 80
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Human",
+        "height": [
+          "6'6",
+          "198 cm"
+        ],
+        "weight": [
+          "257 lb",
+          "116 kg"
+        ],
+        "eyeColor": "Blue",
+        "hairColor": "Blond"
+      },
+      "biography": {
+        "fullName": "Brian Braddock",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Britannic",
+          "Black Bishop",
+          "Jungle Man",
+          "King of Otherworld",
+          "Merlinson"
+        ],
+        "placeOfBirth": "Braddock Manor, England",
+        "firstAppearance": "Captain Britain #1 (October, 1976)",
+        "publisher": "Marvel Comics",
+        "alignment": "good"
+      },
+      "work": {
+        "occupation": "Adventurer, formerly King of Otherworld, scientist",
+        "base": "Lighthouse, Earth Orbit; Starlight Citadel, Otherworld; formerly Braddock Manor; Braddock Lighthouse, England; New York City (during exchange trip, specifically Peter Parker's Manhattan apartment); flat near Thames University, London"
+      },
+      "connections": {
+        "groupAffiliation": "Braddock Academy, Captain Britain Corps, MI-13; formerly Excalibur, Hellfire Club (London Branch), Secret Avengers, Court of Otherworld, Knights of Pendragon's ally, Future Iron Man's Team",
+        "relatives": "John Braddock (ancestor, possibly grandfather), James Braddock, Sr. (father, deceased), Lady Elizabeth Braddock (mother, deceased), James Braddock, Jr. (brother), Elizabeth Braddock (twin sister), Meggan (wife), William Puceanu (father-in-law)"
+      },
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/151-captain-britain.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/151-captain-britain.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/151-captain-britain.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/151-captain-britain.jpg"
+      }
+    },
+    {
+      "id": "157",
+      "name": "Captain Marvel",
+      "slug": "157-captain-marvel",
+      "powerstats": {
+        "intelligence": 84,
+        "strength": 88,
+        "speed": 71,
+        "durability": 95,
+        "power": 100,
+        "combat": 90
+      },
+      "appearance": {
+        "gender": "Female",
+        "race": "Human-Kree",
+        "height": [
+          "5'11",
+          "180 cm"
+        ],
+        "weight": [
+          "165 lb",
+          "74 kg"
+        ],
+        "eyeColor": "Blue",
+        "hairColor": "Blond"
+      },
+      "biography": {
+        "fullName": "Carol Danvers",
+        "alterEgos": "Binary, Warbird",
+        "aliases": [
+          "Ace",
+          "Binary",
+          "Lady Marvel",
+          "Warbird",
+          "others used during her espionage career"
+        ],
+        "placeOfBirth": "Boston, Massachusetts",
+        "firstAppearance": "Ms. Marvel #1",
+        "publisher": "Binary",
+        "alignment": "good"
+      },
+      "work": {
+        "occupation": "Former National Aeronautics and Space Administration security Chief, former magazine editor, former freelance writer, former military intelligence officer.",
+        "base": "Avengers Mansion"
+      },
+      "connections": {
+        "groupAffiliation": "currently Avengers, former companion to the X-Men (as Carol Danvers), former member of the Starjammers (as Binary), Former Avenger (as Ms. Marvel)",
+        "relatives": "Marie Danvers (mother), Joseph Danvers, Sr. (father), Joseph Danvers, Jr. (brother), Steve Danvers (brother, deceased), Marcus Immortus (Danvers) (\"son\", deceased)"
+      },
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/157-captain-marvel.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/157-captain-marvel.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/157-captain-marvel.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/157-captain-marvel.jpg"
+      }
+    },
+    {
+      "id": "165",
+      "name": "Catwoman",
+      "slug": "165-catwoman",
+      "powerstats": {
+        "intelligence": 69,
+        "strength": 11,
+        "speed": 33,
+        "durability": 28,
+        "power": 27,
+        "combat": 85
+      },
+      "appearance": {
+        "gender": "Female",
+        "race": "Human",
+        "height": [
+          "5'9",
+          "175 cm"
+        ],
+        "weight": [
+          "135 lb",
+          "61 kg"
+        ],
+        "eyeColor": "Green",
+        "hairColor": "Black"
+      },
+      "biography": {
+        "fullName": "Selina Kyle",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "The Cat",
+          "Irena Dubrovna",
+          "Elva Barr",
+          "Sadie Kelowski",
+          "Madame Moderne",
+          "Marguerite Tone"
+        ],
+        "placeOfBirth": "Gotham City",
+        "firstAppearance": "Detective Comics #569",
+        "publisher": "DC Comics",
+        "alignment": "good"
+      },
+      "work": {
+        "occupation": "Thief",
+        "base": "Gotham City"
+      },
+      "connections": {
+        "groupAffiliation": "Batman Family, Outsiders; formerly Birds of Prey, Injustice League, Secret Society of Super-Villains",
+        "relatives": "Brian Kyle (father, deceased), Maria Kyle (mother, deceased), Maggie Kyle (sister), Helena Kyle (daughter)"
+      },
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/165-catwoman.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/165-catwoman.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/165-catwoman.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/165-catwoman.jpg"
+      }
+    },
+    {
+      "id": "185",
+      "name": "Colossus",
+      "slug": "185-colossus",
+      "powerstats": {
+        "intelligence": 63,
+        "strength": 83,
+        "speed": 33,
+        "durability": 100,
+        "power": 45,
+        "combat": 80
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Mutant",
+        "height": [
+          "7'5",
+          "226 cm"
+        ],
+        "weight": [
+          "500 lb",
+          "225 kg"
+        ],
+        "eyeColor": "Silver",
+        "hairColor": "Black"
+      },
+      "biography": {
+        "fullName": "Piotr Nikolaievitch Rasputin",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Pete",
+          "Peter Nicholas",
+          "The Proletarian",
+          "Little Brother"
+        ],
+        "placeOfBirth": "Ust-Ordynski Collective, near Lake Baikal, Siberia, Russia",
+        "firstAppearance": "Giant-Size X-Men #1 (May, 1975)",
+        "publisher": "Marvel Comics",
+        "alignment": "good"
+      },
+      "work": {
+        "occupation": "(current) Adventurer, student, (former) Artist",
+        "base": "(current) Professor Charles Xavier's Institute for Higher Learning, Salem Center, Westchester County, New York (former) Muir Isle, Scotland,; a loft in Soho, Manhattan, Ust-Ordynski Collective, Lake Baikal, Siberia, U.S.S.R., X-Men Headquarters in Austra"
+      },
+      "connections": {
+        "groupAffiliation": "X-Men; formerly Excalibur, Acolytes, Defender",
+        "relatives": "Grigory Efimovich Rasputin (great-grandfather, deceased), Elena (great-grandmother, deceased), Ivan Rasputin (great-grand uncle, deceased), Grigory Rasputin (grandfather, deceased), Nikolai Rasputin (father, deceased), Alexandra Rasputina (mother, deceased), Vladimir Rasputin (uncle, deceased), unidentified aunt & uncle (deceased), Illyana Nikolievna Rasputina (Magik, sister, deceased), Mikhail Rasputin (brother), Peter Jr. (son), Larissa Mishchenko (cousin, deceased), Konstantin (cousin, deceased), Klara (cousin, deceased), Dimitriy (cousin, deceased)"
+      },
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/185-colossus.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/185-colossus.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/185-colossus.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/185-colossus.jpg"
+      }
+    },
+    {
+      "id": "201",
+      "name": "Daredevil",
+      "slug": "201-daredevil",
+      "powerstats": {
+        "intelligence": 75,
+        "strength": 13,
+        "speed": 25,
+        "durability": 35,
+        "power": 61,
+        "combat": 100
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Human",
+        "height": [
+          "6'0",
+          "183 cm"
+        ],
+        "weight": [
+          "200 lb",
+          "90 kg"
+        ],
+        "eyeColor": "Blue",
+        "hairColor": "Red"
+      },
+      "biography": {
+        "fullName": "Matt Murdock",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Matt",
+          "Jack Batlin",
+          "Kingpin of Crime",
+          "Laurent LeVasseur",
+          "Michael \"Mike\" Murdock",
+          "Scarlet Swashbuckler",
+          "Nameless One",
+          "Kingpin of Hell's Kitchen",
+          "The Man Without Fear",
+          "The Guardian Devil",
+          "DD",
+          "Red",
+          "Hornhead",
+          "Cooper Peyton",
+          "Captain Universe"
+        ],
+        "placeOfBirth": "New York City, New York",
+        "firstAppearance": "Daredevil #1 (April, 1964)",
+        "publisher": "Marvel Comics",
+        "alignment": "good"
+      },
+      "work": {
+        "occupation": "Adventurer, vigilante, Attorney at Law",
+        "base": "Hell's Kitchen, New York, New York, Shadowland (formerly)"
+      },
+      "connections": {
+        "groupAffiliation": "none; Formerly: partner of Black Widow (Natasha Romanoff), Defenders, S.H.I.E.L.D., Marvel Knights, Secret Avengers (Civil War), Hand leader.",
+        "relatives": "Jonathan \"Battling Jack\" Murdock (Father, deceased), Maggie Murdock (aka Sister Maggie, Mother), Milla Donovan (ex-wife)"
+      },
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/201-daredevil.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/201-daredevil.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/201-daredevil.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/201-daredevil.jpg"
+      }
+    },
+    {
+      "id": "213",
+      "name": "Deadpool",
+      "slug": "213-deadpool",
+      "powerstats": {
+        "intelligence": 69,
+        "strength": 32,
+        "speed": 50,
+        "durability": 100,
+        "power": 100,
+        "combat": 100
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Mutant",
+        "height": [
+          "6'2",
+          "188 cm"
+        ],
+        "weight": [
+          "210 lb",
+          "95 kg"
+        ],
+        "eyeColor": "Brown",
+        "hairColor": "No Hair"
+      },
+      "biography": {
+        "fullName": "Wade Wilson",
+        "alterEgos": "Evil Deadpool, Venompool",
+        "aliases": [
+          "Wade Wilson",
+          "Jack",
+          "Chiyonosake (\"the Wolf of the Rice Wine\")",
+          "Rhodes",
+          "Corpus",
+          "Lopez",
+          "Hobgoblin",
+          "Thom Cruz",
+          "Peter Parker"
+        ],
+        "placeOfBirth": "Canada",
+        "firstAppearance": "New Mutants #98 (February, 1991)",
+        "publisher": "Evil Deadpool",
+        "alignment": "neutral"
+      },
+      "work": {
+        "occupation": "Mercenary; former enforcer, government operative, sumo wrestler, soldier, assassin, anti-hero, others",
+        "base": "Cavern-X, Sedona, Arizona, Mobile"
+      },
+      "connections": {
+        "groupAffiliation": "Thunderbolts (Strike Team), shares body with Agent Preston; formerly X-Force, Deadpool Corps, Agency X, S.H.I.E.L.D.; Code Red, Six Pack, One World Church, DP Inc., Weapon X, Weapon Plus, Heroes for Hire, Secret Defenders, Frightful Four, Team Deadpool, L",
+        "relatives": "Thomas \"Mickey\" Wilson (father, deceased); Hailey Wilson (mother, deceased); Gretchen Wilson, Orksa (ex-wives); Evil Deadpool (clone); Widdle Wade (clone)"
+      },
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/213-deadpool.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/213-deadpool.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/213-deadpool.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/213-deadpool.jpg"
+      }
+    },
+    {
+      "id": "224",
+      "name": "Doctor Fate",
+      "slug": "224-doctor-fate",
+      "powerstats": {
+        "intelligence": 81,
+        "strength": 16,
+        "speed": 25,
+        "durability": 80,
+        "power": 100,
+        "combat": 50
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Human",
+        "height": [
+          "6'2",
+          "188 cm"
+        ],
+        "weight": [
+          "197 lb",
+          "89 kg"
+        ],
+        "eyeColor": "Blue",
+        "hairColor": "Blond"
+      },
+      "biography": {
+        "fullName": "Kent Nelson",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Nabu"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "More Fun Comics #55 (May, 1940)",
+        "publisher": "DC Comics",
+        "alignment": "good"
+      },
+      "work": {
+        "occupation": "-",
+        "base": "Tower of Fate, Salem, Massachusetts"
+      },
+      "connections": {
+        "groupAffiliation": "Formerly All-Star Squadron, Justice Society of America, Justice League International, Black Lantern Corps",
+        "relatives": "Inza Cramer (wife), Sven Nelson (father, deceased), Celestine Babcock (mother), Kent Nelson, Jr. (son), Aaron Babcock (uncle), Kent V. Nelson (grand-nephew), Laryn Nelson (great grand-niece)"
+      },
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/224-doctor-fate.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/224-doctor-fate.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/224-doctor-fate.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/224-doctor-fate.jpg"
+      }
+    },
+    {
+      "id": "226",
+      "name": "Doctor Strange",
+      "slug": "226-doctor-strange",
+      "powerstats": {
+        "intelligence": 100,
+        "strength": 10,
+        "speed": 12,
+        "durability": 84,
+        "power": 100,
+        "combat": 60
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Human",
+        "height": [
+          "6'2",
+          "188 cm"
+        ],
+        "weight": [
+          "180 lb",
+          "81 kg"
+        ],
+        "eyeColor": "Grey",
+        "hairColor": "Black"
+      },
+      "biography": {
+        "fullName": "Stephen Strange",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Sorcerer Supreme",
+          "Master of the Mystic Arts",
+          "Stephen Sanders",
+          "Captain Universe",
+          "Vincent Stevens"
+        ],
+        "placeOfBirth": "Philadelphia, Pennsylvania",
+        "firstAppearance": "Strange Tales #110 (July, 1963)",
+        "publisher": "Marvel Comics",
+        "alignment": "good"
+      },
+      "work": {
+        "occupation": "Sorcerer Supreme, retired neurosurgeon",
+        "base": "-"
+      },
+      "connections": {
+        "groupAffiliation": "Defenders, underground Avengers; formerly the Order, Midnight Sons; former disciple of the Ancient One",
+        "relatives": "Eugene (father, deceased), Beverly (mother, deceased), Victor (Khiron, brother, apparently deceased), Donna (sister, deceased), Clea (wife, estranged), Umar (mother-in-law), Orini (father-in-law), Dormammu (uncle-in-law)"
+      },
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/226-doctor-strange.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/226-doctor-strange.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/226-doctor-strange.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/226-doctor-strange.jpg"
+      }
+    },
+    {
+      "id": "233",
+      "name": "Dr Manhattan",
+      "slug": "233-dr-manhattan",
+      "powerstats": {
+        "intelligence": 88,
+        "strength": 100,
+        "speed": 42,
+        "durability": 100,
+        "power": 100,
+        "combat": 42
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Human / Cosmic",
+        "height": [
+          "-",
+          "0 cm"
+        ],
+        "weight": [
+          "- lb",
+          "0 kg"
+        ],
+        "eyeColor": "White",
+        "hairColor": "No Hair"
+      },
+      "biography": {
+        "fullName": "Jonathan Osterman",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Jon Osterman",
+          "Doctor Manhattan"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "Watchmen #1 (September, 1986)",
+        "publisher": "DC Comics",
+        "alignment": "good"
+      },
+      "work": {
+        "occupation": "Scientist",
+        "base": "New York City; formerly Mars"
+      },
+      "connections": {
+        "groupAffiliation": "Watchmen, Crimebusters",
+        "relatives": "-"
+      },
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/233-dr-manhattan.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/233-dr-manhattan.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/233-dr-manhattan.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/233-dr-manhattan.jpg"
+      }
+    },
+    {
+      "id": "238",
+      "name": "Elektra",
+      "slug": "238-elektra",
+      "powerstats": {
+        "intelligence": 63,
+        "strength": 11,
+        "speed": 30,
+        "durability": 28,
+        "power": 59,
+        "combat": 100
+      },
+      "appearance": {
+        "gender": "Female",
+        "race": "Human",
+        "height": [
+          "5'9",
+          "175 cm"
+        ],
+        "weight": [
+          "130 lb",
+          "59 kg"
+        ],
+        "eyeColor": "Blue",
+        "hairColor": "Black"
+      },
+      "biography": {
+        "fullName": "Elektra Natchios",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Erynys (evil self)"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "Daredevil #168",
+        "publisher": "Marvel Comics",
+        "alignment": "good"
+      },
+      "work": {
+        "occupation": "Assassin, adventurer, mercenary, former student, dancer",
+        "base": "-"
+      },
+      "connections": {
+        "groupAffiliation": "S.H.I.E.L.D.; formerly Thunderbolts, Hand, Chaste, Heroes For Hire, Code Red, partner of Daredevil and Deadpool",
+        "relatives": "Hugo Kostas Natchios (father, deceased), Christina Natchios (mother, deceased), Orestez Natchios (older brother), Demetrios Natchios (Uncle), Alexia Natchios (Aunt)"
+      },
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/238-elektra.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/238-elektra.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/238-elektra.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/238-elektra.jpg"
+      }
+    },
+    {
+      "id": "251",
+      "name": "Falcon",
+      "slug": "251-falcon",
+      "powerstats": {
+        "intelligence": 38,
+        "strength": 13,
+        "speed": 50,
+        "durability": 28,
+        "power": 22,
+        "combat": 64
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Human",
+        "height": [
+          "6'2",
+          "188 cm"
+        ],
+        "weight": [
+          "240 lb",
+          "108 kg"
+        ],
+        "eyeColor": "Brown",
+        "hairColor": "Black"
+      },
+      "biography": {
+        "fullName": "Sam Wilson",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Sam Wilson",
+          "(formerly) Captain America",
+          "Blackbird",
+          "Blackwing",
+          "Brother Superhero"
+        ],
+        "placeOfBirth": "New York, New York",
+        "firstAppearance": "Captain America #117 (September, 1969)",
+        "publisher": "Marvel Comics",
+        "alignment": "good"
+      },
+      "work": {
+        "occupation": "Crimefighter, (former) freelance artist",
+        "base": "New York, New York; formerly Avengers Mansion, New York City, New York; S.H.I.E.L.D. Helicarrier."
+      },
+      "connections": {
+        "groupAffiliation": "Mighty Avengers, Avengers, S.H.I.E.L.D.; partner of Redwing; formerly Heroes For Hire, partner of Captain America, Secret Avengers, S.H.I.E.L.D. Super-Agents (leader), Defenders, ally of Secret Warriors , Defenders for a Day",
+        "relatives": "Paul Wilson (father, deceased); Darlene Wilson (mother, deceased); Sarah Wilson (sister), Gideon Wilson (brother); Jim Wilson (nephew, deceased); Jody Casper (nephew)"
+      },
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/251-falcon.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/251-falcon.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/251-falcon.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/251-falcon.jpg"
+      }
+    },
+    {
+      "id": "263",
+      "name": "Flash",
+      "slug": "263-flash",
+      "powerstats": {
+        "intelligence": 63,
+        "strength": 10,
+        "speed": 100,
+        "durability": 50,
+        "power": 68,
+        "combat": 32
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Human",
+        "height": [
+          "5'11",
+          "180 cm"
+        ],
+        "weight": [
+          "179 lb",
+          "81 kg"
+        ],
+        "eyeColor": "Blue",
+        "hairColor": "Brown / White"
+      },
+      "biography": {
+        "fullName": "Jay Garrick",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Jay Garrick",
+          "Siegfreid the Speedster"
+        ],
+        "placeOfBirth": "Hibbardsville, Kansas",
+        "firstAppearance": "Flash Comics #1 (January 1940)",
+        "publisher": "DC Comics",
+        "alignment": "good"
+      },
+      "work": {
+        "occupation": "Research Scientist, part-time Director of Garrick Laboratories",
+        "base": "Keystone City, Kansas"
+      },
+      "connections": {
+        "groupAffiliation": "Justice Society of America, Flash Family; formerly All-Star Squadron",
+        "relatives": "Joseph Garrick (father), Joan Williams (wife), Arthur Williams (father-in-law), unnamed adopted son (deceased), Bart Allen (Flash II, ward)"
+      },
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/263-flash.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/263-flash.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/263-flash.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/263-flash.jpg"
+      }
+    },
+    {
+      "id": "265",
+      "name": "Flash II",
+      "slug": "265-flash-ii",
+      "powerstats": {
+        "intelligence": 88,
+        "strength": 48,
+        "speed": 100,
+        "durability": 60,
+        "power": 100,
+        "combat": 60
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Black Racer",
+        "height": [
+          "6'0",
+          "183 cm"
+        ],
+        "weight": [
+          "195 lb",
+          "88 kg"
+        ],
+        "eyeColor": "Blue",
+        "hairColor": "Blond"
+      },
+      "biography": {
+        "fullName": "Barry Allen",
+        "alterEgos": "Black Racer",
+        "aliases": [
+          "The Scarlet Speedster",
+          "the Fastest Man Alive",
+          "the Monarch of Motion",
+          "the Sultan of Speed"
+        ],
+        "placeOfBirth": "Fallville, Iowa",
+        "firstAppearance": "Showcase #4 (October, 1956)",
+        "publisher": "Black Racer",
+        "alignment": "good"
+      },
+      "work": {
+        "occupation": "Forensic Scientist",
+        "base": "Central City, Missouri"
+      },
+      "connections": {
+        "groupAffiliation": "Flash Family, Justice League of America; formerly Blue Lantern Corps",
+        "relatives": "Henry and Nora (parents), Malcolm Thawne (twin), Iris West Allen (wife), Wally West (Flash III, nephew), Don and Dawn Allen (son and daughter), Bart Allen (Flash IV, grandson), Jenni Ognats (granddaughter)"
+      },
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/265-flash-ii.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/265-flash-ii.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/265-flash-ii.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/265-flash-ii.jpg"
+      }
+    },
+    {
+      "id": "266",
+      "name": "Flash III",
+      "slug": "266-flash-iii",
+      "powerstats": {
+        "intelligence": 63,
+        "strength": 10,
+        "speed": 100,
+        "durability": 60,
+        "power": 100,
+        "combat": 32
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Human",
+        "height": [
+          "6'0",
+          "183 cm"
+        ],
+        "weight": [
+          "190 lb",
+          "86 kg"
+        ],
+        "eyeColor": "-",
+        "hairColor": "-"
+      },
+      "biography": {
+        "fullName": "Wally West",
+        "alterEgos": "Speed Demon",
+        "aliases": [
+          "The Fastest Man Alive",
+          "The Scarlet Speedster; formerly",
+          "Kid Flash I"
+        ],
+        "placeOfBirth": "Blue Valley, Nebraska",
+        "firstAppearance": "Flash #110 (January, 1960)",
+        "publisher": "Speed Demon",
+        "alignment": "good"
+      },
+      "work": {
+        "occupation": "Adventurer, Mechanic for the KCPD",
+        "base": "Keystone City, Kansas"
+      },
+      "connections": {
+        "groupAffiliation": "Flash Family, Justice League of America, Titans; formerly Teen Titans",
+        "relatives": "Rudolph and Mary West (parents), Ira West (grandfather), Iris Allen (aunt), Barry Allen (Flash II, uncle), Linda Park West (wife), Jai and Iris West (twin children)"
+      },
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/266-flash-iii.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/266-flash-iii.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/266-flash-iii.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/266-flash-iii.jpg"
+      }
+    },
+    {
+      "id": "269",
+      "name": "Franklin Richards",
+      "slug": "269-franklin-richards",
+      "powerstats": {
+        "intelligence": 63,
+        "strength": 80,
+        "speed": 50,
+        "durability": 60,
+        "power": 100,
+        "combat": 50
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Mutant",
+        "height": [
+          "4'8",
+          "142 cm"
+        ],
+        "weight": [
+          "100 lb",
+          "45 kg"
+        ],
+        "eyeColor": "Blue",
+        "hairColor": "Blond"
+      },
+      "biography": {
+        "fullName": "Franklin  Richards",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Franklin Benjamin",
+          "Tattletale",
+          "Psi-Lord",
+          "Ego-Spawn",
+          "Avatar"
+        ],
+        "placeOfBirth": "New York, New York",
+        "firstAppearance": "Fantastic Four Annual #6",
+        "publisher": "Marvel Comics",
+        "alignment": "good"
+      },
+      "work": {
+        "occupation": "Student",
+        "base": "Baxter Building, New York, New York (formerly) Four Freedoms Plaza; Pier 4; Massachusetts Academy"
+      },
+      "connections": {
+        "groupAffiliation": "Future Foundation; formerly Power Pack, Generation X, Daydreamers",
+        "relatives": "Reed Richards (Mister Fantastic, father), Susan Storm Richards (Invisible Woman, mother), Valeria Richards (sister), Jonathan Storm (Human Torch, uncle), Nathaniel Richards (paternal grandfather), Franklin Storm (maternal grandfather, deceased), Evelyn Richards, Mary Storm (grandmothers (paternal and maternal respectively), deceased), Benjamin J. Grimm (Thing, godfather), Alicia Masters (godmother)."
+      },
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/269-franklin-richards.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/269-franklin-richards.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/269-franklin-richards.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/269-franklin-richards.jpg"
+      }
+    },
+    {
+      "id": "274",
+      "name": "Gambit",
+      "slug": "274-gambit",
+      "powerstats": {
+        "intelligence": 63,
+        "strength": 10,
+        "speed": 23,
+        "durability": 28,
+        "power": 55,
+        "combat": 84
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Mutant",
+        "height": [
+          "6'1",
+          "185 cm"
+        ],
+        "weight": [
+          "179 lb",
+          "81 kg"
+        ],
+        "eyeColor": "Red",
+        "hairColor": "Brown"
+      },
+      "biography": {
+        "fullName": "Remy Etienne LeBeau",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Death",
+          "Le Diable Blanc",
+          "formerly Robert Lord",
+          "Cajun"
+        ],
+        "placeOfBirth": "New Orleans, Louisiana",
+        "firstAppearance": "(as Gambit) Uncanny X-Men #266 (1990), (as Death) X-Men #184 (2006)",
+        "publisher": "Marvel Comics",
+        "alignment": "good"
+      },
+      "work": {
+        "occupation": "Jean Grey School for Higher Learning, Salem Center, Westchester County, New York; formerly Utopia, San Francisco Bay, California; Xavier Institute, Salem Center, Westchester County, New York; New Orleans; Paris; Cairo; Illinois",
+        "base": "(current) Xavier Institute, Salem Center, Westchester County, New York; (former) New Orleans, Louisiana; Paris, France; Cairo, Illinois;"
+      },
+      "connections": {
+        "groupAffiliation": "X-Men (Team Wolverine); formerly Marauders, Horsemen of Apocalypse, Chevaliers, X-Treme X-Men, Thieves & Unified Guild's of New Orleans, Crimson Pirates",
+        "relatives": "Jean-Luc LeBeau (father), Belladonna (aka Bella Donna Boudreaux) (wife, separated)"
+      },
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/274-gambit.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/274-gambit.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/274-gambit.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/274-gambit.jpg"
+      }
+    },
+    {
+      "id": "280",
+      "name": "Ghost Rider",
+      "slug": "280-ghost-rider",
+      "powerstats": {
+        "intelligence": 50,
+        "strength": 55,
+        "speed": 25,
+        "durability": 100,
+        "power": 100,
+        "combat": 60
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Demon",
+        "height": [
+          "6'2",
+          "188 cm"
+        ],
+        "weight": [
+          "220 lb",
+          "99 kg"
+        ],
+        "eyeColor": "Red",
+        "hairColor": "No Hair"
+      },
+      "biography": {
+        "fullName": "Johnny Blaze",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "-"
+        ],
+        "placeOfBirth": "Waukegan, Illinois",
+        "firstAppearance": "Marvel Spotlight #5 (August, 1972)",
+        "publisher": "Marvel Comics",
+        "alignment": "good"
+      },
+      "work": {
+        "occupation": "Former stunt motorcyclist",
+        "base": "Mobile, Quentin Carnival"
+      },
+      "connections": {
+        "groupAffiliation": "Quentin Carnival Formerly Midnight Sons, Legion of Monsters, The Champions",
+        "relatives": "Barton (father, deceased), Clara (mother, deceased), Craig \"Crash\" Simpson (stepfather, deceased), Mona Simpson (stepmother, deceased), Roxanne Simpson (wife)"
+      },
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/280-ghost-rider.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/280-ghost-rider.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/280-ghost-rider.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/280-ghost-rider.jpg"
+      }
+    },
+    {
+      "id": "298",
+      "name": "Green Arrow",
+      "slug": "298-green-arrow",
+      "powerstats": {
+        "intelligence": 81,
+        "strength": 12,
+        "speed": 35,
+        "durability": 28,
+        "power": 39,
+        "combat": 90
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Human",
+        "height": [
+          "6'2",
+          "188 cm"
+        ],
+        "weight": [
+          "195 lb",
+          "88 kg"
+        ],
+        "eyeColor": "Green",
+        "hairColor": "Blond"
+      },
+      "biography": {
+        "fullName": "Oliver Queen",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "The Emerald Archer",
+          "Battling Bowman"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "More Fun Comics #73 (November 1941)",
+        "publisher": "DC Comics",
+        "alignment": "good"
+      },
+      "work": {
+        "occupation": "Professional Crime-fighter; Multi-Billionaire",
+        "base": "Star City, California; Formerly Seattle, Washington"
+      },
+      "connections": {
+        "groupAffiliation": "Justice League Reserve, Connor Hawke, Mia Dearden,  Arsenal, Green Arrows of the World, Black Canary, Green Lantern Hal Jordan, Shado, Eddie Fyers, Justice League Elite, Seven Soldiers of Victory, All-Star Squadron",
+        "relatives": "Conner Hawke (son); Robert (son); Cissie King (possible daughter); Roy Harper - Red Arrow (adoptive son); Dinah Laurel Lance (wife); Dinah Drake Lance (mother-in-law, deceased); Larry Lance (father-in-law, deceased)"
+      },
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/298-green-arrow.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/298-green-arrow.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/298-green-arrow.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/298-green-arrow.jpg"
+      }
+    },
+    {
+      "id": "325",
+      "name": "Hercules",
+      "slug": "325-hercules",
+      "powerstats": {
+        "intelligence": 63,
+        "strength": 100,
+        "speed": 46,
+        "durability": 85,
+        "power": 89,
+        "combat": 100
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Demi-God",
+        "height": [
+          "6'5",
+          "196 cm"
+        ],
+        "weight": [
+          "325 lb",
+          "146 kg"
+        ],
+        "eyeColor": "Blue",
+        "hairColor": "Brown"
+      },
+      "biography": {
+        "fullName": "Heracles",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Spider-Herc",
+          "The Lion of Olympus",
+          "The Defender of Olympus",
+          "The Scion of Olympus",
+          "Prince of Power",
+          "Alcaeus",
+          "Herakles",
+          "Herc",
+          "Harry Cleese",
+          "Victor Tegler",
+          "Agent 74"
+        ],
+        "placeOfBirth": "Thebes, Greece",
+        "firstAppearance": "-",
+        "publisher": "Marvel Comics",
+        "alignment": "good"
+      },
+      "work": {
+        "occupation": "Adventurer, Olympian God of Strength and Labor, later Olympian God of Heroes",
+        "base": "Brooklyn; formerly Infinite Avengers Mansion, Mount Olympus, Avengers Mansion, Hydrobase"
+      },
+      "connections": {
+        "groupAffiliation": "Formerly God Squad, Council of Godheads, Olympia Corp., Mighty Avengers, Renegades, Secret Avengers, Avengers, Champions of Los Angeles, Defenders, Heroes for Hire, Damage Control, Olympian Gods, Argonauts, Defenders for a Day",
+        "relatives": "-"
+      },
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/325-hercules.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/325-hercules.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/325-hercules.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/325-hercules.jpg"
+      }
+    },
+    {
+      "id": "332",
+      "name": "Hulk",
+      "slug": "332-hulk",
+      "powerstats": {
+        "intelligence": 88,
+        "strength": 100,
+        "speed": 63,
+        "durability": 100,
+        "power": 98,
+        "combat": 85
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Human / Radiation",
+        "height": [
+          "8'0",
+          "244 cm"
+        ],
+        "weight": [
+          "1400 lb",
+          "630 kg"
+        ],
+        "eyeColor": "Green",
+        "hairColor": "Green"
+      },
+      "biography": {
+        "fullName": "Bruce Banner",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Annihilator",
+          "Captain Universe",
+          "Joe Fixit",
+          "Mr. Fixit",
+          "Mechano",
+          "Professor",
+          "Jade Jaws",
+          "Golly Green Giant"
+        ],
+        "placeOfBirth": "Dayton, Ohio",
+        "firstAppearance": "Incredible Hulk #1 (May, 1962)",
+        "publisher": "Marvel Comics",
+        "alignment": "good"
+      },
+      "work": {
+        "occupation": "Nuclear physicist, Agent of S.H.I.E.L.D.",
+        "base": "(Banner) Hulkbuster Base, New Mexico, (Hulk) mobile, but prefers New Mexico"
+      },
+      "connections": {
+        "groupAffiliation": "Defenders, former leader of the new Hulkbusters, member of the Avengers, Pantheon, Titans Three, the Order, Hulkbusters of Counter-Earth-Franklin, alternate Fantastic Four",
+        "relatives": "Betty Ross Talbot Banner (wife), Brian Banner (father, apparently deceased), Rebecca Banner (mother, deceased), Morris Walters (uncle), Elaine Banner Walters (aunt, deceased), Jennifer Walters (She-Hulk, cousin), Thaddeus E. 'Thunderbolt' Ross (father"
+      },
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/332-hulk.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/332-hulk.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/332-hulk.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/332-hulk.jpg"
+      }
+    },
+    {
+      "id": "333",
+      "name": "Human Torch",
+      "slug": "333-human-torch",
+      "powerstats": {
+        "intelligence": 63,
+        "strength": 11,
+        "speed": 63,
+        "durability": 70,
+        "power": 87,
+        "combat": 42
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Human / Radiation",
+        "height": [
+          "5'10",
+          "178 cm"
+        ],
+        "weight": [
+          "170 lb",
+          "77 kg"
+        ],
+        "eyeColor": "Blue",
+        "hairColor": "Blond"
+      },
+      "biography": {
+        "fullName": "Johnny Storm",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Matchstick Johnny",
+          "Doug Brown"
+        ],
+        "placeOfBirth": "Glenville, Long Island, New York",
+        "firstAppearance": "Fantastic Four #1 (1961)",
+        "publisher": "Marvel Comics",
+        "alignment": "good"
+      },
+      "work": {
+        "occupation": "Adventurer",
+        "base": "Pier Four, New York City"
+      },
+      "connections": {
+        "groupAffiliation": "Fantastic Four",
+        "relatives": "Susan Richards - Invisible Woman (sister), Franklin Richards (nephew), Reed Richards - Mister Fantastic (brother-in-law) Lyja (ex-wife)"
+      },
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/333-human-torch.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/333-human-torch.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/333-human-torch.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/333-human-torch.jpg"
+      }
+    },
+    {
+      "id": "346",
+      "name": "Iron Man",
+      "slug": "346-iron-man",
+      "powerstats": {
+        "intelligence": 100,
+        "strength": 85,
+        "speed": 58,
+        "durability": 85,
+        "power": 100,
+        "combat": 64
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Human",
+        "height": [
+          "6'6",
+          "198 cm"
+        ],
+        "weight": [
+          "425 lb",
+          "191 kg"
+        ],
+        "eyeColor": "Blue",
+        "hairColor": "Black"
+      },
+      "biography": {
+        "fullName": "Tony Stark",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Iron Knight",
+          "Hogan Potts",
+          "Spare Parts Man",
+          "Cobalt Man II",
+          "Crimson Dynamo",
+          "Ironman"
+        ],
+        "placeOfBirth": "Long Island, New York",
+        "firstAppearance": "Tales of Suspence #39 (March, 1963)",
+        "publisher": "Marvel Comics",
+        "alignment": "good"
+      },
+      "work": {
+        "occupation": "Inventor, Industrialist; former United States Secretary of Defense",
+        "base": "Seattle, Washington"
+      },
+      "connections": {
+        "groupAffiliation": "Avengers, Illuminati, Stark Resilient; formerly S.H.I.E.L.D., leader of Stark Enterprises, the Pro-Registration Superhero Unit, New Avengers, Mighty Avengers, Hellfire Club, Force Works, Avengers West Coast, United States Department of Defense.",
+        "relatives": "Howard Anthony Stark (father, deceased), Maria Stark (mother, deceased), Morgan Stark (cousin), Isaac Stark (ancestor)"
+      },
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/346-iron-man.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/346-iron-man.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/346-iron-man.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/346-iron-man.jpg"
+      }
+    },
+    {
+      "id": "356",
+      "name": "Jean Grey",
+      "slug": "356-jean-grey",
+      "powerstats": {
+        "intelligence": 94,
+        "strength": 80,
+        "speed": 21,
+        "durability": 20,
+        "power": 92,
+        "combat": 70
+      },
+      "appearance": {
+        "gender": "Female",
+        "race": "Mutant",
+        "height": [
+          "5'6",
+          "168 cm"
+        ],
+        "weight": [
+          "115 lb",
+          "52 kg"
+        ],
+        "eyeColor": "Green",
+        "hairColor": "Red"
+      },
+      "biography": {
+        "fullName": "Jean Grey",
+        "alterEgos": "Phoenix, White Phoenix of The Crown",
+        "aliases": [
+          "Redd Dayspring",
+          "Marvel Girl"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "X-Men #1 (September, 1963)",
+        "publisher": "Phoenix",
+        "alignment": "good"
+      },
+      "work": {
+        "occupation": "Adventurer",
+        "base": "Xavier Institute of Higher Learning, Westchester County, New York"
+      },
+      "connections": {
+        "groupAffiliation": "Formerly X-Men (founding member); Clan Rebellion, Muir Island X-Men; X-Factor/X-Terminators (founding member); Brides of Set",
+        "relatives": "Rachel Summers (daughter from an alternate universe), X-Man (son from an alternate universe), Cyclops (ex-husband), Havok (former brother-in-law), Corsair (former father-in-law), Madelyne Pryor (clone), Cable (adoptive/biological son), Stryfe (cloned biological son), Genesis (grandson)"
+      },
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/356-jean-grey.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/356-jean-grey.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/356-jean-grey.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/356-jean-grey.jpg"
+      }
+    },
+    {
+      "id": "367",
+      "name": "John Constantine",
+      "slug": "367-john-constantine",
+      "powerstats": {
+        "intelligence": 63,
+        "strength": 10,
+        "speed": 8,
+        "durability": 40,
+        "power": 54,
+        "combat": 65
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Human",
+        "height": [
+          "6'0",
+          "183 cm"
+        ],
+        "weight": [
+          "- lb",
+          "0 kg"
+        ],
+        "eyeColor": "Blue",
+        "hairColor": "Blond"
+      },
+      "biography": {
+        "fullName": "John Constantine",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Hellblazer"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "Swamp Thing Vol 2 #37 (June, 1985)",
+        "publisher": "DC Comics",
+        "alignment": "good"
+      },
+      "work": {
+        "occupation": "-",
+        "base": "-"
+      },
+      "connections": {
+        "groupAffiliation": "Justice League Dark, Justice League",
+        "relatives": "Thomas Constantine (father, deceased), Cheryl Constantine (sister, deceased)"
+      },
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/367-john-constantine.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/367-john-constantine.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/367-john-constantine.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/367-john-constantine.jpg"
+      }
+    }
+  ]
+}

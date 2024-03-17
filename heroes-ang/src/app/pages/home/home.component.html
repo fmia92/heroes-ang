@@ -1,0 +1,37 @@
+<h1 class="title">HEROES LIST</h1>
+<div class="actions-container">
+  <div class="search-box">
+    <button class="btn-search">
+      <mat-icon>search</mat-icon>
+    </button>
+    <input type="text" class="input-search" placeholder="Type to Search..." 
+      [(ngModel)]="valueFilter" (input)="onSearch($event)">
+  </div>
+  <div class="add-hero">
+    <button mat-raised-button color="primary" routerLink="/create">Add Hero</button>
+  </div>
+</div>
+<section class="hero-container">
+  @for (hero of heroes; track hero.id) {
+    @defer (on viewport) {
+      <mat-card class="hero-card" (click)="showHeroData(hero.id)">
+        <mat-card-header class="header">
+          <img mat-card-avatar [src]="hero?.avatar" [alt]="hero?.name" class="avatar">
+          <mat-card-title>{{ hero.name}}</mat-card-title>
+          <mat-card-subtitle>
+            {{ hero?.fullName }}
+          </mat-card-subtitle>
+        </mat-card-header>
+        <img mat-card-image [src]="hero?.image" [alt]="hero?.name" class="img">
+        <div class="footer-card">
+          <button mat-raised-button color="primary" [routerLink]="['/hero/edit', hero.id]">Edit</button>
+          <button mat-raised-button color="warn" (click)="deleteHero(hero.id); $event.stopPropagation()">Delete</button>
+        </div>
+      </mat-card>
+    } @placeholder {
+      <p>...Loading</p>
+    }
+  } @empty {
+    <p>No heroes found</p>
+  }
+</section>

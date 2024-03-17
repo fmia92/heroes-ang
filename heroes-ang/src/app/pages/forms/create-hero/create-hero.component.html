@@ -1,0 +1,151 @@
+<section class="hero-form-container">
+    <button mat-raised-button color="primary" [routerLink]="['/heroes']" class="back_button">Back</button>
+    <mat-card class="hero-form-card">
+      <mat-card-header>
+        <mat-card-title-group class="title_group">
+          <mat-card-title>
+            <h1 class="hero-title">Crea tu héroe</h1>
+          </mat-card-title>
+        </mat-card-title-group>
+      </mat-card-header>
+      <mat-card-content>
+        <form (ngSubmit)="onSubmit()" class="hero-form">
+          <h4>BIOGRAPHY</h4>
+          <div class="data-container">
+              <div class="data_1">
+                  <div class="form-group">
+                      <label for="name">Name</label>
+                      <input type="text" [(ngModel)]="selectedHero.name" name="heroName" class="form-control" 
+                          id="name" placeholder="Character name" required>
+                  </div>
+                  <div class="form-group">
+                      <label for="fullName">Full Name</label>
+                      <input type="text" class="form-control" id="fullName" [(ngModel)]="selectedHero.biography.fullName" name="fullName"
+                          placeholder="Full name" required>
+                  </div>
+                  <div class="form-group">
+                      <label for="alterEgos">Aliases</label>
+                      <input type="text" class="form-control" id="alterEgos" [(ngModel)]="selectedHero.biography.alterEgos" name="alterEgos"
+                          placeholder="Alter egos" required>
+                  </div>
+              </div>
+              <div class="data_2">
+                  <div class="form-group">
+                      <label for="placeOfBirth">Place of Birth</label>
+                      <input type="text" class="form-control" id="placeOfBirth" [(ngModel)]="selectedHero.biography.placeOfBirth" name="placeOfBirth"
+                          placeholder="Place of birth" required>
+                  </div>
+                  <div class="form-group">
+                      <label for="firstAppearance">First Appearance</label>
+                      <input type="text" class="form-control" id="firstAppearance" [(ngModel)]="selectedHero.biography.firstAppearance" name="firstAppearance"
+                          placeholder="First appearance" required>
+                  </div>
+              </div>
+          </div>
+          <mat-divider></mat-divider>
+          <h4>APPEARANCE</h4>
+          <div class="data-container">
+              <div class="data_1">
+                  <div class="form-group">
+                      <label for="height">Height</label>
+                      <input type="text" class="form-control" id="height" [(ngModel)]="selectedHero.appearance.height[1]" name="height"
+                          placeholder="Height in cm" required>
+                  </div>
+                  <div class="form-group">
+                      <label for="weight">Weight</label>
+                      <input type="text" class="form-control" id="weight" [(ngModel)]="selectedHero.appearance.weight[1]" name="weight"
+                          placeholder="Weight in kg" required>
+                  </div>
+              </div>
+              <div class="data_2">
+                  <div class="form-group">
+                      <label for="gender">Gender</label>
+                      <select id="gender" class="form-control" [(ngModel)]="selectedHero.appearance.gender" name="gender" required>
+                          <option value="Male">Male</option>
+                          <option value="Female">Female</option>
+                      </select>
+                  </div>
+                  <div class="form-group">
+                      <label for="race">Race</label>
+                      <select id="race" class="form-control" [(ngModel)]="selectedHero.appearance.race" name="race" required>
+                          <option value="Human">Human</option>
+                          <option value="Inhuman">Inhuman</option>
+                          <option value="Metahuman">Metahuman</option>
+                          <option value="Vampire">Vampire</option>
+                          <option value="Atlantean">Atlantean</option>
+                          <option value="Kree">Kree</option>
+                          <option value="Mutant">Mutant</option>
+                          <option value="God / Eternal">God/Eternal</option>
+                      </select>
+                  </div>
+              </div>
+          </div>
+          <mat-divider></mat-divider>
+          <h4>POWERSTATS</h4>
+          <div class="data-container">
+              <div class="data_1">
+                  <div class="form-group">
+                      <label for="intelligence">Intelligence</label>
+                      <input type="number" class="form-control" id="intelligence" [(ngModel)]="selectedHero.powerstats.intelligence" name="intelligence"
+                          placeholder="Intelligence" required>
+                  </div>
+                  <div class="form-group">
+                      <label for="strength">Strength</label>
+                      <input type="number" class="form-control" id="strength" [(ngModel)]="selectedHero.powerstats.strength" name="strength"
+                          placeholder="Strength" required>
+                  </div>
+                  <div class="form-group">
+                      <label for="speed">Speed</label>
+                      <input type="number" class="form-control" id="speed" [(ngModel)]="selectedHero.powerstats.speed" name="speed"
+                          placeholder="Speed" required>
+                  </div>
+              </div>
+              <div class="data_2">
+                  <div class="form-group">
+                      <label for="durability">Durability</label>
+                      <input type="number" class="form-control" id="durability" [(ngModel)]="selectedHero.powerstats.durability" name="durability"
+                          placeholder="Durability" required>
+                  </div>
+                  <div class="form-group">
+                      <label for="power">Power</label>
+                      <input type="number" class="form-control" id="power" [(ngModel)]="selectedHero.powerstats.power" name="power"
+                          placeholder="Power" required>
+                  </div>
+                  <div class="form-group">
+                      <label for="combat">Combat</label>
+                      <input type="number" class="form-control" id="combat" [(ngModel)]="selectedHero.powerstats.combat" name="combat"
+                          placeholder="Combat" required>
+                  </div>
+              </div>
+          </div>
+          <mat-divider></mat-divider>
+          <h4>MORE INFO</h4>
+          <div class="data-container">
+              <div class="data_1">
+                  <div class="form-group">
+                      <label for="occupation">Occupation</label>
+                      <input type="text" class="form-control" id="occupation" [(ngModel)]="selectedHero.work.occupation" name="occupation"
+                          placeholder="Occupation" required>
+                  </div>
+                  <div class="form-group">
+                      <label for="base">Base</label>
+                      <input type="text" class="form-control" id="base" [(ngModel)]="selectedHero.work.base" name="base"
+                          placeholder="Base" required>
+                  </div>
+                  <div class="form-group">
+                      <label for="groupAffiliation">Group Affiliation</label>
+                      <input type="text" class="form-control" id="groupAffiliation" [(ngModel)]="selectedHero.connections.groupAffiliation" name="groupAffiliation"
+                          placeholder="Group affiliation" required>
+                  </div>
+              </div>
+              <div class="data_2">
+              </div>  
+          </div>
+          <div class="button-container">
+              <button mat-raised-button color="primary" type="submit" class="submit_button">Save</button>
+          </div>
+        </form>
+      </mat-card-content>
+    </mat-card>
+  </section>
+  

@@ -1,0 +1,215 @@
+<section class="hero-details-container">
+    <button mat-raised-button color="primary" [routerLink]="['/heroes']" class="back_button">Back</button>
+  <mat-card class="hero-details-card">
+    <mat-card-header>
+      <mat-card-title-group class="title_group">
+        <mat-card-title>
+          <h1 class="hero-title">
+            {{ selectedHero.name }} <span>({{ selectedHero.biography.fullName }})</span>
+          </h1>
+          <div class="appearance_item">
+            <p class="label">Gender:</p>
+            <p class="value">
+              {{ selectedHero.appearance.gender }}
+            </p>
+          </div>
+          <div class="appearance_item">
+            <p class="label">Race:</p>
+            <p class="value">
+              @if (selectedHero.appearance.race == null) {
+              Unknown
+              } @else {
+              {{ selectedHero.appearance.race }}
+              }
+            </p>
+          </div>
+          <div class="appearance_item">
+            <p class="label">Height:</p>
+            <p class="value">
+              {{ selectedHero.appearance.height[1] }}
+            </p>
+          </div>
+          <div class="appearance_item">
+            <p class="label">Weight:</p>
+            <p class="value">
+              {{ selectedHero.appearance.weight[1] }}
+            </p>
+          </div>
+        </mat-card-title>
+        <img mat-card-xl-image [src]="selectedHero.images.sm" [alt]="selectedHero.name" class="img">
+      </mat-card-title-group>
+    </mat-card-header>
+    <mat-card-content>
+      <h3>STATS</h3>
+      <article class="hero-stats">
+        <div class="stat_1">
+          <div class="stats_item">
+            <div>
+              <p>Intelligence:</p>
+            </div>
+            <div>
+              @if (selectedHero.powerstats.intelligence <= 50) { <p class="low">
+                {{ selectedHero.powerstats.intelligence }}
+                </p>
+                } @else if (selectedHero.powerstats.intelligence > 50 && selectedHero.powerstats.intelligence <= 75) {
+                  <p class="medium">
+                  {{ selectedHero.powerstats.intelligence }}
+                  </p>
+                  } @else {
+                  <p class="high">
+                    {{ selectedHero.powerstats.intelligence }}
+                  </p>
+                  }
+            </div>
+          </div>
+          <div class="stats_item">
+            <div>
+              <p>Strength:</p>
+            </div>
+            <div>
+              @if (selectedHero.powerstats.strength < 50) { <p class="low">
+                {{ selectedHero.powerstats.strength }}
+                </p>
+                } @else if (selectedHero.powerstats.strength >= 50 && selectedHero.powerstats.strength <= 75) { <p
+                  class="medium">
+                  {{ selectedHero.powerstats.strength }}
+                  </p>
+                  } @else {
+                  <p class="high">
+                    {{ selectedHero.powerstats.strength }}
+                  </p>
+                  }
+            </div>
+          </div>
+          <div class="stats_item">
+            <div>
+              <p>Speed:</p>
+            </div>
+            <div>
+              @if (selectedHero.powerstats.speed < 50) { <p class="low">
+                {{ selectedHero.powerstats.speed }}
+                </p>
+                } @else if (selectedHero.powerstats.speed >= 50 && selectedHero.powerstats.speed <= 75) { <p
+                  class="medium">
+                  {{ selectedHero.powerstats.speed }}
+                  </p>
+                  } @else {
+                  <p class="high">
+                    {{ selectedHero.powerstats.speed }}
+                  </p>
+                  }
+            </div>
+          </div>
+        </div>
+        <div class="stat_2">
+          <div class="stats_item">
+            <div>
+              <p>Durability:</p>
+            </div>
+            <div>
+              @if (selectedHero.powerstats.durability < 50) { <p class="low">
+                {{ selectedHero.powerstats.durability }}
+                </p>
+                } @else if (selectedHero.powerstats.durability >= 50 && selectedHero.powerstats.durability <= 75) { <p
+                  class="medium">
+                  {{ selectedHero.powerstats.durability }}
+                  </p>
+                  } @else {
+                  <p class="high">
+                    {{ selectedHero.powerstats.durability }}
+                  </p>
+                  }
+            </div>
+          </div>
+          <div class="stats_item">
+            <div>
+              <p>Power:</p>
+            </div>
+            <div>
+              @if (selectedHero.powerstats.power< 50) { <p class="low">
+                {{ selectedHero.powerstats.power}}
+                </p>
+                } @else if (selectedHero.powerstats.power>= 50 && selectedHero.powerstats.power<= 75) { <p
+                  class="medium">
+                  {{ selectedHero.powerstats.power}}
+                  </p>
+                  } @else {
+                  <p class="high">
+                    {{ selectedHero.powerstats.power}}
+                  </p>
+                  }
+            </div>
+          </div>
+          <div class="stats_item">
+            <div>
+              <p>Combat:</p>
+            </div>
+            <div>
+              @if (selectedHero.powerstats.combat < 50) { <p class="low">
+                {{ selectedHero.powerstats.combat }}
+                </p>
+                } @else if (selectedHero.powerstats.combat >= 50 && selectedHero.powerstats.combat <= 75) { <p
+                  class="medium">
+                  {{ selectedHero.powerstats.combat }}
+                  </p>
+                  } @else {
+                  <p class="high">
+                    {{ selectedHero.powerstats.combat }}
+                  </p>
+                  }
+            </div>
+          </div>
+        </div>
+      </article>
+      <h3>FACTS</h3>
+      <article class="hero-facts">
+        <div class="facts_1">
+          <div class="facts_item">
+            <p class="label">Alignment:</p>
+            <p class="value">
+              {{ selectedHero.biography.alignment }}
+            </p>
+          </div>
+          <div class="facts_item">
+            <p class="label">Aliases:</p>
+            <p class="value">
+              {{ selectedHero.biography.aliases.join(', ')}}
+            </p>
+          </div>
+          <div class="facts_item">
+            <p class="label">First Appearance:</p>
+            <p class="value">
+              {{ selectedHero.biography.firstAppearance }}
+            </p>
+          </div>
+          <div class="facts_item">
+            <p class="label">Place of Birth:</p>
+            <p class="value">
+              {{ selectedHero.biography.placeOfBirth }}
+            </p>
+          </div>
+        </div>
+        <div class="facts_2">
+          <div class="facts_item">
+            <p class="label">Occupation:</p>
+            <p class="value">
+              {{ selectedHero.work.occupation }}
+            </p>
+          </div>
+          <div class="facts_item">
+            <p class="label">Base:</p>
+            <p class="value">
+              {{ selectedHero.work.base }}
+            </p>
+          </div>
+          <div class="facts_item">
+            <p class="label">groupAffiliation:</p>
+            <p class="value">
+              {{ selectedHero.connections.groupAffiliation }}
+            </p>
+          </div>
+        </div>
+      </article>
+    </mat-card-content>
+  </mat-card>
+</section>
